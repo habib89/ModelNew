@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<string name="app_name">rascal viewer</string>
+<string-array name="models">
+    <!--<item>EspressoCupBlack/EspressoCupBlack.obj</item>-->
+    <!--<item>EspressoCupWhiteWave/EspressoCupWhiteWave.obj</item>-->
+    <item>cyn0101cynrp/cyn0101cynrp.obj</item>
+    <!--<item>EspressoCupBlueBatak2/EspressoCupBlueBatak.obj</item>-->
+     <!--<item>EspressoCupBlackWave2/EspressoCupBlueBatak.obj</item>-->
+    <!--<item>GelangBlack/DumSpiroSperoSilverBlackPotongan.obj</item>-->
+    <!--<item>GelangBrass/DumSpiroSperoBrassBlackPotongan.obj</item>-->
+    <!--<item>EspressoCupBlackCoba/EspressoCupBlack.obj</item>-->
+    <!--<item>EspressoCupBlackWave/EspressoCupBlackWave.obj</item>-->
+    <!--<item>DurgaKupu2/DurgaKupu2.obj</item>-->
+    <!--<item>Amba2/Amba2.obj</item>-->
+    <!--<item>Durga4/Durga4.obj</item>-->
+    <!--<item>Key_B.obj/Key_B_02.obj</item>-->
+    <!--<item>BlueBatakNEW/BlueBatakNEW.obj</item>-->
+
+</string-array>
+</resources>
